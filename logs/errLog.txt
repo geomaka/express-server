@@ -1,0 +1,1 @@
+2023/15/21	16:15:17	c8eb7721-1966-4fb2-a5fc-34c78306a0a7	Error : not allowed by cors
